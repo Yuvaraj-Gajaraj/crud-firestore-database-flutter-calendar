@@ -1,4 +1,4 @@
-# Flutter Calendar Appointment CRUD Operationa
+# Flutter Calendar Appointment CRUD Operations
 
 
 This repository contains a sample that demonstrates how to perform the CRUD operation on the appointments using the Firestore database in Syncfusion® Calendar package.
